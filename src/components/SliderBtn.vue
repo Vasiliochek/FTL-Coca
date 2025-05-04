@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-import {  defineEmits, ref, watch } from 'vue'
+import { ref, watch } from 'vue'
 import { useLocale } from '../composables/useLocale'
 
 const { locale } = useLocale()

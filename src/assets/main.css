@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+html {
+  scroll-behavior: smooth;
+}
+
+.header-btn:focus {
+  outline: 1px solid #2c2b41;
+}
+
+.container {
+  max-width: 1600px;
+}
+
+h1, h2, h3, h4 {
+  cursor:default;
+}
+
+
+
